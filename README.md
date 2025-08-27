@@ -14,8 +14,7 @@
  a snapshot of the counter area the moment a customer enters, providing a visual log. Streamlit
  Web App: Interactive web-based interface for running inference using index.py.
  Setup and Installation: Clone the repository:
- git clone https://github.com/your-username/your-repository-name.git
- cd your-repository-name
+ git clone https://github.com/Prakash2503/video-analytics
  Create and activate a virtual environment (recommended):
  python -m venv venv
  source venv/bin/activate # On Windows, use venv\Scripts\activate
@@ -29,3 +28,4 @@
  Alternatively, run the Streamlit web application:
  streamlit run index.py Upload your video through the Streamlit interface to analyze it interactively.
  This project was created as part of the internship task at NeubAItics Tech Pvt. Ltd
+
